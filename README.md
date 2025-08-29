@@ -14,8 +14,8 @@
 ### Clone the Repository:
 Clone this repository and install all required dependencies:<br>
 Bash<br>
-```git clone https://github.com/ARiMa8/dicoding_notestack-app```
-```cd dicoding_notestack-app```
+```git clone https://github.com/ARiMa8/dicoding_notestack-app```<br>
+```cd dicoding_notestack-app```<br>
 ```npm install```
 
 ### Running the Development Server
